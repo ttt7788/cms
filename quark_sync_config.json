@@ -1,0 +1,6 @@
+{
+    "src_path": "/kuake",
+    "dst_path": "C:\\Users\\ly778\\Desktop\\CMS\\config\\data",
+    "cron": "0 */1 * * *",
+    "enabled": false
+}

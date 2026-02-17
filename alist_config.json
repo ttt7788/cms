@@ -1,0 +1,8 @@
+{
+    "url": "http://192.168.68.200:5244",
+    "username": "admin",
+    "password": "waa7788waa",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwicHdkX3RzIjowLCJleHAiOjE3NzE0ODk5ODAsIm5iZiI6MTc3MTMxNzE4MCwiaWF0IjoxNzcxMzE3MTgwfQ.mi_UmSfg-x-GcpqgtrKh1vdA-Zl-S_-veHS2eEG_qYo",
+    "aliyun_mount_path": "/aliyun",
+    "quark_mount_path": "/kuake"
+}
